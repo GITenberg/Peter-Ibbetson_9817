@@ -1,0 +1,31 @@
+_repo: Peter-Ibbetson_9817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Du Maurier, George
+    aliases:
+    - Maurier, George Du
+    - Du Maurier, George Louis Palmella Busson
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+description: '"Comment un homme qui purge une peine de prison à perpétuité parvient
+  à s''évader à volonté vers son passé, et retrouver la femme qu''il aime, par la
+  magie du "rever-vrai"... Un classique de la littérature britannique de l''époque
+  victorienne.'
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+- GITenberg
+title: Peter Ibbetson
+url: http://www.gutenberg.org/ebooks/9817
