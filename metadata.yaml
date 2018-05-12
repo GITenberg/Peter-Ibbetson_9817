@@ -1,5 +1,8 @@
 _repo: Peter-Ibbetson_9817
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Du Maurier, George
@@ -15,6 +18,8 @@ description: '"Comment un homme qui purge une peine de prison à perpétuité pa
   à s''évader à volonté vers son passé, et retrouver la femme qu''il aime, par la
   magie du "rever-vrai"... Un classique de la littérature britannique de l''époque
   victorienne.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9817#Peter-Ibbetson
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
